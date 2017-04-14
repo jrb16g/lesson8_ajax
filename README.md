@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 14th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jordan Bennett)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we added additional DOM nodes to display HTTP responses in an application that displays information about movies you can search for.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://jrb16g.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to use the javascript console to trouble shoot a web application making requests.)
+2. (I learned how to make an HTTP request to another server.)
+3. (I also learned how to display results of a request from another server in an application.)
